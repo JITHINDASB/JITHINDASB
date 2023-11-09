@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JITHIN DAS B</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/J2GE.gif(https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="coding" width="400" src="https://www.textures4photoshop.com/tex/thumbs/matrix-code-animation-gif-free-animated-background-716.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithindasb&label=Profile%20views&color=0e75b6&style=flat" alt="jithindasb" /> </p>
 
