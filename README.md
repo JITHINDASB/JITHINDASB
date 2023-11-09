@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JITHIN DAS B</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<img align="center" alt="coding" width="400" src="https://i.gifer.com/J2GE.gif">
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/J2GE.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jithindasb&label=Profile%20views&color=0e75b6&style=flat" alt="jithindasb" /> </p>
 
